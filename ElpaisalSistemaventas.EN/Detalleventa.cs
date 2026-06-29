@@ -6,12 +6,12 @@ namespace ElpaisalSistemaventas.EN
 {
     public class Detalleventa
     {
-        public long detalleventaid { get; set; }
-        public long ventaid {  get; set; }
-        public int productoid { get; set; }
-        public decimal precio { get; set; }
-        public short cantidad { get; set; }
-        public decimal subtotal { get; set; }
+        public long DetalleVentaId { get; set; }
+        public long VentaId {  get; set; }
+        public int ProductoId { get; set; }
+        public decimal Precio { get; set; }
+        public short Cantidad { get; set; }
+        public decimal Subtotal { get; set; }
     }
 }
 //+DetalleVentaId: long
