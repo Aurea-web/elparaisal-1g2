@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="BibliotecaDeClases/BibliotecaDeClases.csproj" />
+  <Project Path="ElpaisalSistemaventas.BL/ElpaisalSistemaventas.BL.csproj" />
+  <Project Path="ElpaisalSistemaventas.DAL/ElpaisalSistemaventas.DAL.csproj" />
+  <Project Path="ElpaisalSistemaventas.EN/ElpaisalSistemaventas.EN.csproj" />
+  <Project Path="ElpaisalSistemaventas.UIWindowsForms/ElpaisalSistemaventas.UIWindowsForms.csproj" />
+  <Project Path="ElpaisalSistemaventas.WebMVC/ElpaisalSistemaventas.WebMVC.csproj" />
+</Solution>
