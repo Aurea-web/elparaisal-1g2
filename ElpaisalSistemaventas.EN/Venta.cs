@@ -6,5 +6,6 @@ namespace ElpaisalSistemaventas.EN
 {
     public class Venta
     {
+      
     }
 }
